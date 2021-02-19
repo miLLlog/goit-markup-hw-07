@@ -24,7 +24,7 @@
     margin: 9px 0px;
   }
   .link {
-    color: rgba(255, 255, 255, 0.6);
+    color: $color-link;
   }
 }
 
@@ -39,7 +39,7 @@
 }
 
 .footer .icon {
-  background: rgba(255, 255, 255, 0.1);
+  background: $color-footer-icon;
   fill: $white-color;
 }
 
